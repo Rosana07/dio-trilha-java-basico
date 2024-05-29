@@ -3,7 +3,7 @@ public class TiposVariaveis {
         //tipos primitivos
         //estudar classe String que representa texto na aplicação
 
-        String meuNome = "ROSANA SANTOS"; 
+        String meuNome = "ROSANA OLIVEIRA"; 
 
         System.out.println(meuNome);
 
