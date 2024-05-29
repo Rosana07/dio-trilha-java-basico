@@ -5,6 +5,8 @@ public class TiposVariaveis {
 
         String meuNome = "ROSANA SANTOS"; 
 
+        System.out.println(meuNome);
+
         double salarioMinimo = 2500;
 
         short numeroCurto = 1;
@@ -18,5 +20,9 @@ public class TiposVariaveis {
         System.out.println(numero);
 
         final double VALOR_DE_PI = 3.14;
+
+        System.out.println(VALOR_DE_PI);
+
+       
     }
 }
