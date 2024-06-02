@@ -109,7 +109,7 @@ public class Operadores {
 
         System.out.println(nome1 == nome2);
 
-        // operadores logicos, condições , tabela verdade
+        // operadores logicos, condições , condição da tabela verdade
         boolean condicao1 = true;
 
         boolean condicao2 = false;
