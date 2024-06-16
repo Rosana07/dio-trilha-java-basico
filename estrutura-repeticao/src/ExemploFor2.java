@@ -4,6 +4,8 @@ public class ExemploFor2 {
         for( ; carneirinhos <=20; ) {
         System.out.println(carneirinhos + " - Carneirinho(s)");
         carneirinhos ++;
-}
+        }
+
+        System.out.println("Joãozinho dormiu");
     }
 }
